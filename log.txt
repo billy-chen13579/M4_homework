@@ -1,2 +1,4 @@
-233f68e (HEAD -> main, origin/main, origin/HEAD) Task 1.1
+4933df6 remove parameter
+5a47d6f Task 1.2
+233f68e Task 1.1
 b8d4048 Initial commit
